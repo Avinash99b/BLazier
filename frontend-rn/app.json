@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frontend-rn",
-    "slug": "frontend-rn",
+    "name": "BLazier\uD83E\uDD71",
+    "slug": "blazier",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "327d4ab9-2387-4d42-a94a-4b70c5678f2a"
+      }
+    },
+    "owner": "avinash99"
   }
 }
